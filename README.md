@@ -47,5 +47,9 @@ This project showcases expertise in full-stack development, emphasizing user exp
     <img src="https://raw.githubusercontent.com/goldstring/W2C-Wholesale-Retail-Fish-Seller-Ecommerce-Venture/main/images/project_banner_03.png" alt="w2c" width="200">
 </div>
 
+## 🎥 Project Demo
+
+[▶️ Watch W2C Wholesale & Retail Fish Seller E-Commerce Demo](https://drive.google.com/file/d/1yUoC3qDg8RKgQrAh_Npj8HTGa7zsN2jk/view?usp=sharing)
+
 
 
