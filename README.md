@@ -1,5 +1,7 @@
 # W2C-Wholesale-Retail-Fish-Seller-Ecommerce-Venture
   <img src="https://raw.githubusercontent.com/goldstring/W2C-Wholesale-Retail-Fish-Seller-Ecommerce-Venture/main/images/project_logo.png" alt="w2c" width="200">
+
+<a href="https://world2consumer.com/" target="_blank" rel="noopener noreferrer">Click here to view demo</a>
   
 ## Project Description
 Designed and developed a full-featured, scalable e-commerce platform from scratch, including a robust admin panel and a delivery application, providing end-to-end solutions for managing orders, payments, and delivery services.
