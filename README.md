@@ -48,7 +48,4 @@ This project showcases expertise in full-stack development, emphasizing user exp
 </div>
 
 
-<video width="100%" controls>
-    <source src="https://raw.githubusercontent.com/goldstring/W2C-Wholesale-Retail-Fish-Seller-Ecommerce-Venture/main/images/931acb85-dec2-42e5-aeed-343bbf0fd0cf.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
